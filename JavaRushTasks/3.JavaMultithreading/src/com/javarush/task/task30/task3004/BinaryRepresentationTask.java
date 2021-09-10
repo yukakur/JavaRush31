@@ -11,7 +11,14 @@ public class BinaryRepresentationTask extends RecursiveTask<String> {
 
     @Override
     protected String compute() {
-        BinaryRepresentationTask task = new BinaryRepresentationTask(x);
-        task.fork();
+        int a = x % 2;
+        int b = x / 2;
+        String result = String.valueOf(a);
+        if (b > 0) {
+            BinaryRepresentationTask task = new BinaryRepresentationTask(b);
+            task.fork();
+            return task.join() + a;
+        }
+        return result;
     }
 }
