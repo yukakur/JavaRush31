@@ -37,3 +37,7 @@ x
 H3.JavaMultithreading/src/com/javarush/task/task30/task3010/Solution.java,c\5\c5cccd4203eb0eb419b54af297a2f01aa7a0f7a2
 x
 H3.JavaMultithreading/src/com/javarush/task/task30/task3004/Solution.java,e\1\e16d7516a2be6acf3a2e063becbc55111999333b
+~
+N3.JavaMultithreading/src/com/javarush/task/task30/task3012/Условие.jrtc,3\6\368e3e5975a12be4d05cdffac7386236e0792e05
+�
+X3.JavaMultithreading/src/com/javarush/task/task30/task3004/BinaryRepresentationTask.java,2\d\2dc58b8aa9dae0d3f6fa51d4d343a3b88edcf09c
