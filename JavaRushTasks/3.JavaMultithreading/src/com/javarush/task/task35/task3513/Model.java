@@ -120,4 +120,9 @@ public class Model {
         rotateCl();
     }
 
+    public boolean canMove() {
+        List<Tile> list = getEmptyTiles();
+        return !list.isEmpty();
+    }
+
 }
