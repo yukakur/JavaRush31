@@ -1,0 +1,15 @@
+
+V
+java:S1854"@Remove this useless assignment to local variable "incomeString".(àÕ¼
+X
+java:S1854"6Remove this useless assignment to local variable "bi".(è²Šôùÿÿÿÿ8«ß–Ü»/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÏŠ••şÿÿÿÿ
+G
+java:S1481"1Remove this unused "incomeString" local variable.(àÕ¼
+D
+java:S1481"'Remove this unused "bi" local variable.(…„ÕÜ8±ß–Ü»/
+G
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ
+O
+java:S1128"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ

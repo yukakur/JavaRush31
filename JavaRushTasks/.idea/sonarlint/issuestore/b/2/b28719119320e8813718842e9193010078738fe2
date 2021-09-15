@@ -1,0 +1,7 @@
+
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ñ‚Öî
+T	java:S899":Do something with the "boolean" value returned by "offer".(ãğ¬¸üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ş¼Òî
+>	java:S108")Either remove or fill this block of code.(”ı¾
