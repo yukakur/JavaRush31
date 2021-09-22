@@ -41,3 +41,11 @@ H3.JavaMultithreading/src/com/javarush/task/task30/task3004/Solution.java,e\1\e
 N3.JavaMultithreading/src/com/javarush/task/task30/task3012/Условие.jrtc,3\6\368e3e5975a12be4d05cdffac7386236e0792e05
 �
 X3.JavaMultithreading/src/com/javarush/task/task30/task3004/BinaryRepresentationTask.java,2\d\2dc58b8aa9dae0d3f6fa51d4d343a3b88edcf09c
+t
+D3.JavaMultithreading/src/com/javarush/task/task35/task3513/Move.java,9\7\97a11424444e324a66d1dfacc69c5aed1aa734a8
+~
+N3.JavaMultithreading/src/com/javarush/task/task35/task3513/MoveEfficiency.java,d\6\d6a2fa895a964687a55892a668a8396fba6af801
+t
+D3.JavaMultithreading/src/com/javarush/task/task35/task3513/View.java,0\a\0afa9bfef75407c565b75e268ab5419adc256787
+u
+E3.JavaMultithreading/src/com/javarush/task/task35/task3513/Model.java,7\0\70bb98aef224e10dfd7340d4fa6e3779182980c3
